@@ -5,7 +5,7 @@
   <subtitle><![CDATA[0ldsch00l hacking]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="https://magicyb.github.io//"/>
-  <updated>2015-06-12T08:21:47.231Z</updated>
+  <updated>2015-06-12T09:04:02.454Z</updated>
   <id>https://magicyb.github.io//</id>
   
   <author>
@@ -19,8 +19,8 @@
     <title><![CDATA[Welcome to magicyb personal blog!]]></title>
     <link href="https://magicyb.github.io/2015/06/12/hello-world/"/>
     <id>https://magicyb.github.io/2015/06/12/hello-world/</id>
-    <published>2015-06-12T08:21:47.231Z</published>
-    <updated>2015-06-12T08:21:47.231Z</updated>
+    <published>2015-06-12T09:04:02.454Z</published>
+    <updated>2015-06-12T09:04:02.454Z</updated>
     <content type="html"><![CDATA[<h2 id="Start_up">Start up</h2><h3 id="坚持，坚持">坚持，坚持</h3><p>一直想好好总结，让知识能够逐渐积累起来。让时间的流逝变成厚厚的沉淀。</p>
 <p>然而，事情总是在被拖延。</p>
 <p>其实事情只要去做，慢慢就会越来越好。但没有行动，久而久之，就会发现没有做下去的勇气和决心，没有那份自信和潇洒。</p>
@@ -33,6 +33,8 @@
     </summary>
     
       <category term="Thoughts" scheme="https://magicyb.github.io/tags/Thoughts/"/>
+    
+      <category term="Thoughts" scheme="https://magicyb.github.io/categories/Thoughts/"/>
     
   </entry>
   
